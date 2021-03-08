@@ -1,3 +1,3 @@
 # MusicPlayer
-Программа для прослушивания музыкальных файлов хранящихся на SD памяти устройства.
-Работает на Android начиная с версии 4.0
+App for listening music from SD card you Phone.
+Work on Android from version 4.0 and upper.
